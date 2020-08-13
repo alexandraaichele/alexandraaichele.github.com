@@ -1,16 +1,36 @@
 .letra{
     font-family: Arial;
+    margin-left: 12,5%;
+    margin-right: 12,5%;
+    width: 75%;
+    justify-content: center;
+    margin: 0 auto;
 }
 
 .contenedor{
-    border: 1px solid #ccc;
     width: 75%;
     padding: 10px;
-    margin-left: 12,5%;
-    margin-right: 12,5%;
-    justify-content: center;
+    margin: 0 auto;
+   
 }
-
+.principal{
+    padding: 10px;
+    width: 75%;
+    margin:0 auto;
+}
+.header{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.nombre{
+    margin-left:12,5%;
+    margin-right:12,5% ;
+    width: 75%;
+}
+.titulo{
+    font-size:18px;
+}
 .footer{
     background-color: black;
     color:white;
