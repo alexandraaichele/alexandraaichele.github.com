@@ -11,17 +11,23 @@
     width: 75%;
     padding: 10px;
     margin: 0 auto;
+    margin-left: 12,5%;
+    margin-right: 12,5%;
    
 }
 .principal{
     padding: 10px;
     width: 75%;
     margin:0 auto;
+    margin-left: 12,5%;
+    margin-right: 12,5%;
 }
 .header{
     display: flex;
     background-color: black;
     color: white;
+    margin-left: 12,5%;
+    margin-right: 12,5%;
 }
 .nombre{
     margin-left:12,5%;
@@ -35,5 +41,7 @@
     background-color: black;
     color:white;
     text-align: right;
+    margin-left: 12,5%;
+    margin-right: 12,5%;
 
 }
